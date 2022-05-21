@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/raeperd/realworld-springboot-java
+[submodule "client"]
+	path = client
+	url = https://github.com/khaledosman/react-redux-realworld-example-app
